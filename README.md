@@ -116,6 +116,8 @@ $ git add README.md
 $ git commit -m 'Initial commit'
 ```
 
+I need to test git
+
 You should see something similar to this:
 
 ```console
